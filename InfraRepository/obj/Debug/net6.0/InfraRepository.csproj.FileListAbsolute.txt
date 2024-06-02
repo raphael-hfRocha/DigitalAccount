@@ -1,0 +1,15 @@
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\bin\Debug\net6.0\InfraRepository.deps.json
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\bin\Debug\net6.0\InfraRepository.dll
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\bin\Debug\net6.0\InfraRepository.pdb
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\bin\Debug\net6.0\Domain.dll
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\bin\Debug\net6.0\Domain.pdb
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.csproj.AssemblyReference.cache
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.AssemblyInfoInputs.cache
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.AssemblyInfo.cs
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.csproj.CoreCompileInputs.cache
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRep.B4A9909A.Up2Date
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.dll
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\refint\InfraRepository.dll
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\InfraRepository.pdb
+C:\Users\x665003\OneDrive - rede.sp\Documents\.NET\Desafios\WebAPI\DigitalAccount\InfraRepository\obj\Debug\net6.0\ref\InfraRepository.dll

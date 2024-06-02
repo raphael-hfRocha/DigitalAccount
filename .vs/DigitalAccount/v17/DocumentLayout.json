@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{496F7012-0A10-484F-80E4-9B06AF5135D7}|Application\\Application.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\application\\usecases\\addcustomer\\addcustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{496F7012-0A10-484F-80E4-9B06AF5135D7}|Application\\Application.csproj|solutionrelative:application\\usecases\\addcustomer\\addcustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\domain\\contracts\\usecases\\addcustomer\\iaddcustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|solutionrelative:domain\\contracts\\usecases\\addcustomer\\iaddcustomerusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD56E63-7087-43F7-A769-C56AA735F079}|InfraRepository\\InfraRepository.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\infrarepository\\repositories\\addcustomer\\addcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD56E63-7087-43F7-A769-C56AA735F079}|InfraRepository\\InfraRepository.csproj|solutionrelative:infrarepository\\repositories\\addcustomer\\addcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\domain\\contracts\\repositories\\addcustomer\\iaddcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|solutionrelative:domain\\contracts\\repositories\\addcustomer\\iaddcustomerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\webapi\\controllers\\addcostumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\addcostumercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD56E63-7087-43F7-A769-C56AA735F079}|InfraRepository\\InfraRepository.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\infrarepository\\infrarepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4DD56E63-7087-43F7-A769-C56AA735F079}|InfraRepository\\InfraRepository.csproj|solutionrelative:infrarepository\\infrarepository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B9DB781-83FD-4319-B117-A5EE2F235AF2}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|c:\\users\\x665003\\onedrive - rede.sp\\documents\\.net\\desafios\\webapi\\digitalaccount\\webapi\\models\\addcustomer\\addcustomerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04EFA465-57F5-4152-8A0D-9F243291B0C3}|WebApi\\WebApi.csproj|solutionrelative:webapi\\models\\addcustomer\\addcustomerinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 27,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddCustomerUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Application\\UseCases\\AddCustomer\\AddCustomerUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\AddCustomer\\AddCustomerUseCase.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Application\\UseCases\\AddCustomer\\AddCustomerUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\AddCustomer\\AddCustomerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:11:02.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAddCustomerUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Contracts\\UseCases\\AddCustomer\\IAddCustomerUseCase.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\UseCases\\AddCustomer\\IAddCustomerUseCase.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Contracts\\UseCases\\AddCustomer\\IAddCustomerUseCase.cs",
+              "RelativeToolTip": "Domain\\Contracts\\UseCases\\AddCustomer\\IAddCustomerUseCase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:55:09.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:50:09.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\InfraRepository\\Repositories\\AddCustomer\\AddCustomerRepository.cs",
+              "RelativeDocumentMoniker": "InfraRepository\\Repositories\\AddCustomer\\AddCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\InfraRepository\\Repositories\\AddCustomer\\AddCustomerRepository.cs",
+              "RelativeToolTip": "InfraRepository\\Repositories\\AddCustomer\\AddCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:44:33.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAddCustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Contracts\\Repositories\\AddCustomer\\IAddCustomerRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Contracts\\Repositories\\AddCustomer\\IAddCustomerRepository.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Contracts\\Repositories\\AddCustomer\\IAddCustomerRepository.cs",
+              "RelativeToolTip": "Domain\\Contracts\\Repositories\\AddCustomer\\IAddCustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T17:14:11.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddCostumerController.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Controllers\\AddCostumerController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\AddCostumerController.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Controllers\\AddCostumerController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\AddCostumerController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:45:23.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddCustomerInput.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Models\\AddCustomer\\AddCustomerInput.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\AddCustomer\\AddCustomerInput.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\Models\\AddCustomer\\AddCustomerInput.cs",
+              "RelativeToolTip": "WebApi\\Models\\AddCustomer\\AddCustomerInput.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:50:10.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T16:57:22.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WebApi.csproj",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\WebApi.csproj",
+              "RelativeDocumentMoniker": "WebApi\\WebApi.csproj",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\WebApi\\WebApi.csproj",
+              "RelativeToolTip": "WebApi\\WebApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T17:47:28.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InfraRepository.csproj",
+              "DocumentMoniker": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\InfraRepository\\InfraRepository.csproj",
+              "RelativeDocumentMoniker": "InfraRepository\\InfraRepository.csproj",
+              "ToolTip": "C:\\Users\\x665003\\OneDrive - rede.sp\\Documents\\.NET\\Desafios\\WebAPI\\DigitalAccount\\InfraRepository\\InfraRepository.csproj",
+              "RelativeToolTip": "InfraRepository\\InfraRepository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-01T18:04:20.482Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
